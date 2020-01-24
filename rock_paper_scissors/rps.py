@@ -3,7 +3,9 @@
 import sys
 
 def rock_paper_scissors(n):
-  pass 
+  results = []
+  possibilities = ['r', 'p', 's']
+
 
 
 if __name__ == "__main__":
